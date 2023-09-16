@@ -6,7 +6,7 @@ https://www.patorjk.com/software/taag/#p=display&h=0&f=ANSI%20Shadow&t=MECHA
 
 ![Batch Script](https://img.shields.io/badge/Batch-Script-blue)
 
-# Title here  + one emoji (🛠️)
+# Title here  + one [emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#computer) 
 
 Short description here
 
