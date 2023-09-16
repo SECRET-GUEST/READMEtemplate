@@ -18,7 +18,7 @@ Short description here
 
 1. [Features](#-features)
 2. [Prerequisites](#-prerequisites)
-3. [Getting Started](#-getting-started)
+3. [TODO](#-TODO)
 4. [Usage](#-usage)
 5. [License](#-license)
 6. [Support & Questions](#-support--questions)
@@ -37,23 +37,23 @@ Before you begin, ensure you have the following installed:
 - ...
 
 
-## 🚀 Getting Started
+## 🛠️ TODO 
 
-1. Launch the application.
-2. ...
+1. Add reward list
+2. Work the frontend with animations
+3. Make
 
-
-## :scroll: License
+## 📜 License
 
 This repository is released under the [MIT License](LICENSE). Please see the `LICENSE` file for more information.
 
 
-## :question: Support & Questions
+## ❓ Support & Questions
 
 If you have any questions or need support, please feel free to open an issue, a new discussion, or join my twitter.
 
 
-# :gem: Recommendations  
+## 💎 Recommendations  
 
 In your quest for more tools to enhance your desktop productivity, these additional repositories are worth a look:
 
