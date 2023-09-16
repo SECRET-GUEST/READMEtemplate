@@ -18,7 +18,7 @@ Short description here
 
 1. [Features](#-features)
 2. [Prerequisites](#-prerequisites)
-3. [to do](#-to-do)
+3. [to do](#-to--do)
 4. [Usage](#-usage)
 5. [License](#-license)
 6. [Support & Questions](#-support--questions)
