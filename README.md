@@ -18,7 +18,7 @@ Short description here
 
 1. [Features](#-features)
 2. [Prerequisites](#-prerequisites)
-3. [to do](#-to--do)
+3. [to do](#-todo)
 4. [Usage](#-usage)
 5. [License](#-license)
 6. [Support & Questions](#-support--questions)
@@ -37,11 +37,10 @@ Before you begin, ensure you have the following installed:
 - ...
 
 
-## 🛠️ to do 
+## 🛠️ TODO
 
-1. Add reward list
-2. Work the frontend with animations
-3. Make
+1.
+2.
 
 ## 📜 License
 
