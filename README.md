@@ -5,7 +5,7 @@ https://www.patorjk.com/software/taag/#p=display&h=0&f=ANSI%20Shadow&t=MECHA
 
 ![Status Down](https://img.shields.io/badge/STATUS-DOWN-red?colorA=cyan)
 
-[![NEWS](https://img.shields.io/badge/NEWS-INFO-yellow?style=for-the-badge&colorA=black)](#%F0%9F%97%9Enews)
+[![NEWS](https://img.shields.io/badge/NEWS-INFO-yellow?style=for-the-badge&colorA=black)](#news)
 
 ![C](https://img.shields.io/badge/C-GCC-purple)
 ![C++](https://img.shields.io/badge/C++-FFC0CB)
@@ -65,9 +65,9 @@ Before you begin, ensure you have the following installed:
 2.
 
 
-## 🗞️news 
-- ...
+## NEWS
 
+- 🗞️ 
 
 ## 📜 License
 
