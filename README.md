@@ -1,10 +1,28 @@
-![Python](https://img.shields.io/badge/VERSION-BETA-orange) ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 
 ```
 https://www.patorjk.com/software/taag/#p=display&h=0&f=ANSI%20Shadow&t=MECHA
 ```
+![Status Down](https://img.shields.io/badge/STATUS-DOWN-yellow?color=black&style=flat-square)
 
-![Batch Script](https://img.shields.io/badge/Batch-Script-blue)
+![C](https://img.shields.io/badge/C-GCC-purple)
+![C++](https://img.shields.io/badge/C++-FFC0CB)
+![PYTHON](https://img.shields.io/badge/Python-3.10+-blue)
+![REACTTSX](https://img.shields.io/badge/REACT-TYPESCRIPT-blue)
+![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-blue)
+![Javascript](https://img.shields.io/badge/JAVASCRIPT-yellow)
+
+![Batch Script](https://img.shields.io/badge/script-batch-blue)
+![Bash Script](https://img.shields.io/badge/script-bash-green)
+
+
+![ALPHA](https://img.shields.io/badge/ALPHA-red) 
+![BETA](https://img.shields.io/badge/VERSION-BETA-orange) 
+
+
+![WINDOWS](https://img.shields.io/badge/windows-blue)
+![LINUX](https://img.shields.io/badge/Debian-LINUX-orange)
+![MACOS](https://img.shields.io/badge/MacOS-white) 
+
 
 # Title here  + one [emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#computer) 
 
@@ -75,6 +93,11 @@ In your quest for more tools to enhance your desktop productivity, these additio
 
 - [LogInfo](https://github.com/SECRET-GUEST/logInfo) : Facilitate Python programming with effective error handling.
 - [How Many Books Have I Written As A Developer](https://github.com/SECRET-GUEST/How-Many-Books-Have-I-Written-As-A-Developer) : Gauge the number of lines you've written as a developer.
+
+
+- [LNK reader](https://github.com/SECRET-GUEST/windows_link_reader): Allow dual boot Linux users to work with Windows shortcuts.
+- [Unreal installer](https://github.com/SECRET-GUEST/Unrealinux) : An installer in C++ for Unreal Engine on linux without Epic Games launcher.
+
 
 
 Looking for more? Discover user-friendly, GUI-free script here: 
