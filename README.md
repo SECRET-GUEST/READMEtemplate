@@ -3,7 +3,7 @@
 https://www.patorjk.com/software/taag/#p=display&h=0&f=ANSI%20Shadow&t=MECHA
 ```
 
-![Status Down](https://img.shields.io/badge/STATUS-DOWN-red?style=for-the-badge&colorA=yellow)
+![Status Down](https://img.shields.io/badge/STATUS-DOWN-red?style=for-the-badge&colorA=cyan)
 
 ![C](https://img.shields.io/badge/C-GCC-purple)
 ![C++](https://img.shields.io/badge/C++-FFC0CB)
