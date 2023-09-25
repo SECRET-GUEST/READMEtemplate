@@ -40,7 +40,7 @@ Short description here
 1. [Features](#-features)
 2. [Prerequisites](#-prerequisites)
 3. [to do](#-todo)
-4. [News](#-news)
+4. [News](#news)
 5. [Usage](#-usage)
 6. [License](#-license)
 7. [Support & Questions](#-support--questions)
