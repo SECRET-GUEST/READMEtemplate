@@ -8,7 +8,7 @@ https://www.patorjk.com/software/taag/#p=display&h=0&f=ANSI%20Shadow&t=MECHA
 [![NEWS](https://img.shields.io/badge/NEWS-INFO-yellow?style=for-the-badge&colorA=black)](#news)
 
 ![C](https://img.shields.io/badge/C-GCC-purple)
-![C++](https://img.shields.io/badge/C++-FFC0CB)
+![C++](https://img.shields.io/badge/C++-DDAF00)
 ![PYTHON](https://img.shields.io/badge/Python-3.10+-blue)
 ![REACTTSX](https://img.shields.io/badge/REACT-TYPESCRIPT-blue)
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-blue)
