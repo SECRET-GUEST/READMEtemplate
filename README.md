@@ -14,7 +14,7 @@ https://www.patorjk.com/software/taag/#p=display&h=0&f=ANSI%20Shadow&t=MECHA
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-blue)
 ![Javascript](https://img.shields.io/badge/JAVASCRIPT-yellow)
 
-![Batch Script](https://img.shields.io/badge/script-batch-blue)
+![Batch Script](https://img.shields.io/badge/script-batch-DDFF00)
 ![Bash Script](https://img.shields.io/badge/script-bash-green)
 
 
