@@ -27,7 +27,7 @@ https://www.patorjk.com/software/taag/#p=display&h=0&f=ANSI%20Shadow&t=MECHA
 ![DEAD](https://img.shields.io/badge/VERSION-DEAD-grey) 
 
 [![Windows](https://img.shields.io/badge/WINDOWS-blue)](https://www.microsoft.com/en-us/windows)
-[![Linux (Debian)](https://img.shields.io/badge/Debian-LINUX-orange)](https://www.debian.org/)
+[![LINUX](https://img.shields.io/badge/LINUX-yellow)](https://www.linuxfromscratch.org/)
 [![macOS](https://img.shields.io/badge/MacOS-white)](https://www.apple.com/macos/)
 
 
