@@ -7,28 +7,29 @@ https://www.patorjk.com/software/taag/#p=display&h=0&f=ANSI%20Shadow&t=MECHA
 
 [![NEWS](https://img.shields.io/badge/NEWS-INFO-yellow?style=for-the-badge&colorA=black)](#news)
 
-[![Blender](https://img.shields.io/badge/Blender-3.6-orange.svg)](https://www.blender.org/download/releases/3-6/)
+[![Blender](https://img.shields.io/badge/Blender-4.2.3-orange.svg)](https://www.blender.org/download/releases/4-2/)
 [![Python](https://img.shields.io/badge/Python-3.10.13-blue.svg)](https://www.python.org/downloads/release/python-31013/)
+[![Node.js](https://img.shields.io/badge/Node.js-20.11.1-green.svg)](https://nodejs.org/en/blog/release/v20.11.1)
 
-![C](https://img.shields.io/badge/C-grey)
-![C++](https://img.shields.io/badge/C++-pink)
-![PYTHON](https://img.shields.io/badge/Python-3.10+-blue)
-![REACTTSX](https://img.shields.io/badge/REACT-TYPESCRIPT-blue)
-![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-blue)
-![Javascript](https://img.shields.io/badge/JAVASCRIPT-yellow)
+[![C](https://img.shields.io/badge/C-grey)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-pink)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org/)
+[![React TSX](https://img.shields.io/badge/REACT-TYPESCRIPT-blue)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TYPESCRIPT-blue)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-![Batch Script](https://img.shields.io/badge/script-batch-DDFF00)
-![Bash Script](https://img.shields.io/badge/script-bash-green)
-
+[![Batch Script](https://img.shields.io/badge/script-batch-DDFF00)](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
+[![Bash Script](https://img.shields.io/badge/script-bash-green)](https://www.gnu.org/software/bash/)
 
 ![ALPHA](https://img.shields.io/badge/ALPHA-red) 
 ![BETA](https://img.shields.io/badge/VERSION-BETA-orange) 
 ![STABLE](https://img.shields.io/badge/VERSION-1.0.0-green) 
 ![DEAD](https://img.shields.io/badge/VERSION-DEAD-grey) 
 
-![VINDWOS](https://img.shields.io/badge/vVINDWOS-blue)
-![LINUX](https://img.shields.io/badge/Debian-LINUX-orange)
-![MACOS](https://img.shields.io/badge/MacOS-white) 
+[![Windows](https://img.shields.io/badge/WINDOWS-blue)](https://www.microsoft.com/en-us/windows)
+[![Linux (Debian)](https://img.shields.io/badge/Debian-LINUX-orange)](https://www.debian.org/)
+[![macOS](https://img.shields.io/badge/MacOS-white)](https://www.apple.com/macos/)
+
 
 
 # Title here  + one [emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#computer) 
