@@ -7,28 +7,33 @@ https://www.patorjk.com/software/taag/#p=display&h=0&f=ANSI%20Shadow&t=MECHA
 
 [![NEWS](https://img.shields.io/badge/NEWS-INFO-yellow?style=for-the-badge&colorA=black)](#news)
 
-[![Blender](https://img.shields.io/badge/Blender-4.2.3-orange.svg)](https://www.blender.org/download/releases/4-2/)
-[![Python](https://img.shields.io/badge/Python-3.10.13-blue.svg)](https://www.python.org/downloads/release/python-31013/)
-[![Node.js](https://img.shields.io/badge/Node.js-20.11.1-green.svg)](https://nodejs.org/en/blog/release/v20.11.1)
+[![Blender](https://img.shields.io/badge/Blender-4.5-orange.svg?logo=blender&logoColor=white)](https://www.blender.org/download/releases/4-5/)
+[![Python](https://img.shields.io/badge/Python-3.10.13-blue.svg?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-31013/)
+[![Node.js](https://img.shields.io/badge/Node.js-20.11.1-green.svg?logo=node.js&logoColor=white)](https://nodejs.org/en/blog/release/v20.11.1)
 
-[![C](https://img.shields.io/badge/C-grey)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/C++-pink)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org/)
-[![React TSX](https://img.shields.io/badge/REACT-TYPESCRIPT-blue)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TYPESCRIPT-blue)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C](https://img.shields.io/badge/C-grey?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-pink?logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![React TSX](https://img.shields.io/badge/React-TypeScript-blue?logo=react&logoColor=white)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-[![Batch Script](https://img.shields.io/badge/script-batch-DDFF00)](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
-[![Bash Script](https://img.shields.io/badge/script-bash-green)](https://www.gnu.org/software/bash/)
+[![Batch Script](https://img.shields.io/badge/Script-Batch-DDFF00?logo=windows-terminal&logoColor=black)](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
+[![Bash Script](https://img.shields.io/badge/Script-Bash-green?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 
-![ALPHA](https://img.shields.io/badge/ALPHA-red) 
-![BETA](https://img.shields.io/badge/VERSION-BETA-orange) 
-![STABLE](https://img.shields.io/badge/VERSION-1.0.0-green) 
-![DEAD](https://img.shields.io/badge/VERSION-DEAD-grey) 
 
-[![Windows](https://img.shields.io/badge/WINDOWS-blue)](https://www.microsoft.com/en-us/windows)
-[![LINUX](https://img.shields.io/badge/LINUX-yellow)](https://www.linuxfromscratch.org/)
-[![macOS](https://img.shields.io/badge/MacOS-white)](https://www.apple.com/macos/)
+![ALPHA](https://img.shields.io/badge/🔴%20ALPHA-red)
+![BETA](https://img.shields.io/badge/🟠%20BETA-orange)
+![STABLE](https://img.shields.io/badge/🟢%20STABLE%201.0.0-green)
+![DEAD](https://img.shields.io/badge/⚫%20DEAD-grey)
+
+
+
+[![Windows](https://img.shields.io/badge/WinDdos-blue?logo=windows&logoColor=white&style=for-the-badge)](https://www.microsoft.com/en-us/windows)
+[![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux&logoColor=black&style=for-the-badge)](https://www.linuxfromscratch.org/)
+[![macOS](https://img.shields.io/badge/macOS-white?logo=apple&logoColor=black&style=for-the-badge)](https://www.apple.com/macos/)
+
+
 
 
 
