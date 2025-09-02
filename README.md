@@ -29,7 +29,7 @@ https://www.patorjk.com/software/taag/#p=display&h=0&f=ANSI%20Shadow&t=MECHA
 
 
 
-[![Windows](https://img.shields.io/badge/WinDdos-blue?logo=windows&logoColor=white&style=for-the-badge)](https://www.microsoft.com/en-us/windows)
+[![WinDdos](https://img.shields.io/badge/WinDdos-blue?logo=windows&logoColor=white&style=for-the-badge)](https://www.microsoft.com/en-us/windows)
 [![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux&logoColor=black&style=for-the-badge)](https://www.linuxfromscratch.org/)
 [![macOS](https://img.shields.io/badge/macOS-white?logo=apple&logoColor=black&style=for-the-badge)](https://www.apple.com/macos/)
 
