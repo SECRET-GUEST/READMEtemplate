@@ -7,7 +7,7 @@ https://www.patorjk.com/software/taag/#p=display&h=0&f=ANSI%20Shadow&t=MECHA
 
 [![NEWS](https://img.shields.io/badge/NEWS-INFO-yellow?style=for-the-badge&colorA=black)](#news)
 
-[![Blender](https://img.shields.io/badge/Blender-4.5-orange.svg?logo=blender&logoColor=white)](https://www.blender.org/download/releases/4-5/)
+[![Blender](https://img.shields.io/badge/Blender-4.5-orange?\&logo=blender)](https://www.blender.org/download/releases/4-5/)
 [![Python](https://img.shields.io/badge/Python-3.10.13-blue.svg?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-31013/)
 [![Node.js](https://img.shields.io/badge/Node.js-20.11.1-green.svg?logo=node.js&logoColor=white)](https://nodejs.org/en/blog/release/v20.11.1)
 
